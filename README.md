@@ -1,4 +1,3 @@
-# E-commerce-Project
 # E-Commerce Market Analysis in Colombia
 
 ## Project Overview
